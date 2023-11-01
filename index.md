@@ -6,3 +6,8 @@ my first text in markdown
 x=0
 print("hello world")
 ~~~
+
+
+- [x] watch soccer game
+- [ ] take a shower
+- [ ] write a message to rachid
